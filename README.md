@@ -35,3 +35,4 @@ npm install http-proxy --save
 Running proxy on port 3002 and it alternatively requests service to instances running on port 3001 and 3002.
 
 ##Screencast
+![ScreenCast](https://github.com/rkvardhi/HW3_Proxies_Queues_Cache-Redis/blob/master/HW3_Screencast.mp4)
